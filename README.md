@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirankotha
-- 👀 I’m interested in learning new things daily...my present interests are hacking and python
+- 👀 I’m interested in learning new things daily...my present interests are python
 - 🌱 I’m currently learning advance python programming
 - 💞️ I’m looking to collaborate on different ways to debug a faulty code
 - 📫 mail me @ kirankotha@gmail.com
